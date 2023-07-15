@@ -17,6 +17,6 @@ public class SnakeGame extends JFrame {
 
     public static void main(String[] args) {
         SnakeGame sg = new SnakeGame();
-        System.out.println("hello prince");
+        // System.out.println("hello prince");
     }
 }
